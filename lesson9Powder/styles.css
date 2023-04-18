@@ -1,0 +1,66 @@
+
+
+#main-menu {
+    font-weight: bold;
+}
+#main-menu span{
+    color: blue;
+    font-size: 20px;
+}
+#main-menu span:hover{
+    color: #1189dd;
+    font-size: 25px;
+}
+#title-link{
+    text-decoration: #1189dd;
+    text-decoration-color: #1189dd;
+}
+.nav-link {
+    color: #1189dd;
+}
+#books:active{
+    font-size: 18px;
+}
+#stories:active{
+    font-size: 18px;
+}
+#quotes:active{
+    font-size: 18px;
+}
+#login:active{
+    font-size: 18px;
+}
+
+#register:active{
+    font-size: 18px;
+}
+
+
+
+.main-section {
+    min-height: 400px;
+    margin: 2rem;
+}
+
+footer {
+    background-color: whitesmoke;
+    padding: 1.5rem;
+}
+
+
+
+
+label, input {
+    display: block;
+    margin: .5rem;
+}
+
+.my-form{
+    padding: 2rem;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    border: 1px whitesmoke groove;
+    box-shadow: 1px 1px 5px 1px black;
+}
+
+
