@@ -4,6 +4,10 @@
         <p>Contact Us: </br> 
         Phone: </br>
         Address: </br></p>
+
+        <?php 
+echo date('l jS \of F Y');
+?>
     </footer>
 
 </body>

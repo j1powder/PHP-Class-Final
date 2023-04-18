@@ -56,6 +56,9 @@ label, input {
 }
 
 .my-form{
+    display: block;
+    margin: 0px auto;
+    width: 80%;
     padding: 2rem;
     background-color: whitesmoke;
     border-radius: 8px;
